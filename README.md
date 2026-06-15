@@ -1,12 +1,12 @@
 # AskDocs
 
-AskDocs is a document intelligence application built for the Build Fast with AI engineering assessment.
+AskDocs is a document intelligence application.
 
 It accepts PDFs, scans, images, and text files. Each page is extracted and rendered, every document is classified, and the chat interface answers questions using evidence from the uploaded documents. Answers include the document name, page number, and a clickable image of the source page.
 
 The repository includes six sample PDFs, so the main flow works on first run.
 
-> Deployment link: add the final frontend URL here before submission.
+> Deployment link: https://askdocs-blond.vercel.app
 
 ## App Screenshots
 
